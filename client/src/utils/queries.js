@@ -1,5 +1,4 @@
 import gql from 'graphql-tag';
-
 export const GET_ME = gql`
     {
         me {
@@ -11,6 +10,12 @@ export const GET_ME = gql`
                 bookId
                 title
                 authors
+<<<<<<< HEAD
+=======
+                image
+                description
+                link
+>>>>>>> develop
             }
         }
     }
