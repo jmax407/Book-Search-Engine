@@ -3,12 +3,12 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 # Description
-Book Search Engine is a google api powered book search engine. This application allows users to seach for books, and if the user is signed in the user will have the ability to save books asd well. This application uses GraphQL, Apollo GraphQl, MongoDB, Node, Express, and React. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the live site [here](https://git.heroku.com/fireflyer.git/).
+Book Search Engine is a google api powered book search engine. This application allows users to seach for books, and if the user is signed in the user will have the ability to save books asd well. This application uses GraphQL, Apollo GraphQl, MongoDB, Node, Express, and React. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the live site [here](https://fireflyer.herokuapp.com/).
 
 ![image source code](img/screenshot.png)
 
 # Usage
-The live application can be found [here](https://git.heroku.com/fireflyer.git/).
+The live application can be found [here](https://fireflyer.herokuapp.com/).
 
 ## Available Scripts
 
